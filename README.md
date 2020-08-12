@@ -6,10 +6,10 @@ Este repositório foi criado com o objetivo de entregar o desafio do módulo 5 (
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
 
 <h3 align="center">
-  Desafio 09: Relacionamentos com banco de dados no Node.js
+  Desafio 11: GoRestaurant Mobile
 </h3>
 
-<p align="center">“Mude você e todo o resto mudará naturalmente”!</p>
+<p align="center">“Nada no mundo supera a persistência.”!</p>
 
 <p align="center">
 
