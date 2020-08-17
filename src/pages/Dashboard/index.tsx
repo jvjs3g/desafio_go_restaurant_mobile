@@ -71,6 +71,7 @@ const Dashboard: React.FC = () => {
         const filteredCategory = formattedFoods.filter(
           (food: Food) => food.category === selectedCategory,
         );
+
         setFoods(filteredCategory);
       } else if (searchValue) {
         const foundByName = formattedFoods.filter((food: Food) =>
