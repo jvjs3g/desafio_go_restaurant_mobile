@@ -51,11 +51,11 @@ Para isso, deixamos instalado no seu package.json uma dependência chamada json-
 
 ## Funcionalidades da aplicação
 
-Agora que você já está com o template clonado e pronto para continuar, você deve verificar os arquivos da pasta src e completar onde não possui código, com o código para atingir os objetivos de cada rota.
+Verifique os arquivos da pasta src e complete onde não possui código, com o código para atingir os objetivos de cada rota.
 
-- **`Listar os pratos de comida da sua API`**: Sua página Dashboard deve ser capaz de exibir uma listagem, com o campo `name`, `value` e `description` de todos os pratos de comida que estão cadastrados na sua API.
+- **`Listar os pratos de comida da sua API`**: Sua página `Dashboard` deve ser capaz de exibir uma listagem, com o campo `name`, `value` e `description` de todos os pratos de comida que estão cadastrados na sua API.
 
-- **`Listar as categorias da sua API`**: Sua página Dashboard deve ser capaz de exibir uma listagem, com o campo title e image_url de todas as categorias que estão cadastrados na sua API.
+- **`Listar as categorias da sua API`**: Sua página `Dashboard` deve ser capaz de exibir uma listagem, com o campo `title` e `image_url` de todas as categorias que estão cadastrados na sua API.
 
 **Dica**: O campo `thumbnail_url` será utilizada como imagem da categoria, deixamos três categorias como exemplo no arquivo `server.json`.
 
@@ -65,7 +65,7 @@ Agora que você já está com o template clonado e pronto para continuar, você 
 
 **Dica**: Por se tratar de uma Fake API e de não possuir usuários, não será necessário cadastrar o campo `user_id`, considere que deve ser listados todos os pedidos da API como se fossem os seus pedidos.
 
-- **`Listar os pratos favoritos da sua API: Sua página `Favorites` deve ser capaz de exibir uma listagem, com o campo as informações do produto favorito, com `name` e `description` de todos os pedidos que estão cadastrados na sua API.
+- **`Listar os pratos favoritos da sua API`**: Sua página `Favorites` deve ser capaz de exibir uma listagem, com o campo as informações do produto favorito, com `name` e `description` de todos os pedidos que estão cadastrados na sua API.
 
 **Dica**: Por se tratar de uma Fake API e de não possuir usuários, não será necessário cadastrar o campo `user_id`, considere que deve ser listados todos os favoritos da API como se fossem os seus favoritos.
 
