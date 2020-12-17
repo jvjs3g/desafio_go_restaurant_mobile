@@ -7,7 +7,7 @@ import { Container, TextInput, Icon } from './styles';
 interface InputProps extends TextInputProps {
   name?: string;
 }
-
+/// start
 const SearchInput: React.FC<InputProps> = ({ value = '', ...rest }) => {
   const [isFocused, setIsFocused] = useState(false);
   const [isFilled, setIsFilled] = useState(false);
